@@ -8,8 +8,8 @@ Technologies:
 
 To run app:
 
-**in dev mode**
+**in dev mode** -> 
 "start": "webpack --mode=development",
 
-**in prod mode**
+**in prod mode** -> 
 "build": "webpack --mode=production"
