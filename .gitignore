@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Output files
+dist/
+build/
+
+# OS-generated files
+.DS_Store
+
+# Babel cache
+.cache/
+
+# Webpack's cache
+webpack.cache/
