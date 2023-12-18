@@ -9,7 +9,7 @@ Technologies:
 To run app:
 
 **in dev mode** -> 
-"start": "webpack --mode=development",
+npm start
 
 **in prod mode** -> 
-"build": "webpack --mode=production"
+npm build
